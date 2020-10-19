@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'TheMuppetFont';
+  src: url('./fonts/TheMuppetFont.woff2') format('woff2'),
+    url('./fonts/TheMuppetFont.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+}
