@@ -1,10 +1,8 @@
 # Muppets.me
 
-[Studio 60 on the Sunset Strip](https://en.wikipedia.org/wiki/Studio_60_on_the_Sunset_Strip) was a TV show than ran for one season on NBC in 2006-2007.
+This app can be used to generate A muppets collage for yourself. Credit to [George Lucas Talk Show](https://twitter.com/GLucasTalkShow) for the idea!
 
-This app can be used to generate Studio 60 like names for yourself. Credit to [George Lucas Talk Show](https://twitter.com/GLucasTalkShow) for the idea!
-
-See <https://studio60.me>
+See <https://muppets.me>
 
 ## Made with [Gatsby](https://www.gatsbyjs.org/)
 
